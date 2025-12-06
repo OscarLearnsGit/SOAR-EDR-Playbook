@@ -1,6 +1,10 @@
 # Automated Incident Response & Isolation Playbook 🛡️
 
-![Project Diagram](playbook-diagram.png)
+<p align="center">
+  <a href="SOAR-EDR.png">
+    <img src="SOAR-EDR.png" alt="Project Diagram" width="500">
+  </a>
+</p>
 
 ## Objective
 To design and implement a security automation playbook that streamlines incident triage, generates multi-channel alerts, and executes conditional endpoint isolation upon detecting credential dumping attempts.
