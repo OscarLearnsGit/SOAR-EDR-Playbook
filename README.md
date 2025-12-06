@@ -1,5 +1,7 @@
 # Automated Incident Response & Isolation Playbook 🛡️
 
+![Project Diagram](diagram.png)
+
 ## Objective
 To design and implement a security automation playbook that streamlines incident triage, generates multi-channel alerts, and executes conditional endpoint isolation upon detecting credential dumping attempts.
 
